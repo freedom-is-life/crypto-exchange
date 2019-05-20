@@ -1,12 +1,14 @@
 # crypto-exchange
 
-# 项目介绍
+# 项目介绍 -- 24MEX 24mex GodMEX
 
 目前最火的差价合约交易所系统、获客最快盈利最快的新型交易所
 
 指数型差价合约交易所系统、ICFD 指数型差价合约交易所、BTC 比特币杠杠交易、领先数字货币杠杆交易所（高达 100 倍杠杆）
 
 BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,数字货币杠杆交易、支持比特币杠杆交易、以太坊杠杆交易，等各类主流货币杠杆交易。最高百倍杠杆、边挖 BTC、ETH、BCH、LTC、XRP，边交易。数字货币比特币 BTC 微盘交易系统开发、数字货币比特币 BTC 微交易系统，数字货币比特币 BTC 合约系统
+
+24MEX 交易所系统软件开发,全部源码开放对接
 
 # 平台交易介绍
 
@@ -49,6 +51,10 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 # 支持功能：
 
 ## 罗列已全部实现完成
+
+> 多交易对
+
+- [x] 目前支持 USDT、BTC 为计价币的交易对
 
 > 实盘交易
 
@@ -107,6 +113,8 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 - [x] 修改密码
 - [x] 资金明细
 - [x] 实名认证
+- [x] 邮箱绑定
+- [x] 手机绑定
 - [x] 绑定银行卡
 - [x] 绑定微信支付宝支付
 - [x] 绑定提币地址
@@ -148,6 +156,14 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 - [x] 邀请口令
 - [x] 邀请好友可获得手续费 30%返佣
 - [x] 等级返佣 L1-10%、L2-20%、L3-30%，根据不同的等级进行设置返佣
+
+> 活动落地页 6 个
+
+方便直接可以用于市场推广及宣传
+
+- [x] 活动宣传页
+- [x] 广告注册页
+- [x] 抽奖引导页
 
 ## 后台管理
 
@@ -192,6 +208,11 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 - [x] 提币记录
 - [x] 发放奖励
 
+> 钱包管理
+
+- [x] 充值钱包
+- [x] 提币钱包
+
 > 行情管理
 
 - [x] 行情设置
@@ -205,7 +226,7 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 > 客服管理
 
 - [x] 消息设置
-- [x] 客户对话
+- [x] 客户对话，实时客户对话解答
 
 > 系统设置
 
@@ -302,4 +323,10 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 
 ### 交易对管理
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/manage1.png" width="975" height="468"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/contract.png" width="975" height="468"/>
+### 流水管理
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/record.png" width="975" height="468"/>
+### 用户充值
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/recharge.png" width="975" height="468"/>
+### 订单管理
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/order.png" width="975" height="468"/>
