@@ -20,31 +20,31 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 
 # 产品优势
 
-### 1.强制平仓
+#### 1.强制平仓
 
 爆仓率 80%，极大的保证客户交易安全。
 
-### 2.连续报价
+#### 2.连续报价
 
 全年无休，7×24 小时连续报价自由交易。
 
-### 3.USDT 出入金
+#### 3.USDT 出入金
 
 规避政策风险，支持 24 小时无忧出入金，场外交易系统自动审核。
 
-### 4.无涨跌幅
+#### 4.无涨跌幅
 
 数字货币没有涨跌幅限制，无强制交割机制，是永续合约交易机制。
 
-### 5.安全可靠
+#### 5.安全可靠
 
 资产存储多重签名冷钱包 保障资金安全。
 
-### 6.交易便捷
+#### 6.交易便捷
 
 部署平台覆盖 iOS、Android、PC、H5 多个平台
 
-### 7.用户体验强
+#### 7.用户体验强
 
 客户使用门槛低，只需判断趋势买涨买跌既有机会盈利。
 
@@ -52,21 +52,25 @@ BTC 杠杆交易,比特币杠杆交易，ETH 杠杆交易,以太坊杠杆交易,
 vuejs前后端分离设计，由15个子系统构成，确保系统灵活安全独立运行
 
 
+
+
 # 代理商功能
 
-## 需求实现：
+### 需求实现：
 用户只需通过代理商提供的安装包下载安装即可。
 用户直接注册后会自动成为该代理商的用户，不用填写邀请码（邀请码可以跟普通注册一样填其他用户的邀请码，不影响代理商的统计关系）
 
-## 代理商可以登录代理商后台，查看其邀请的用户情况
+### 代理商可以登录代理商后台，查看其邀请的用户情况
 包括：基础统计、订单查看（订单盈亏情况，带统计）、流水记录查看、用户信息（脱敏）查看、经理人关系查看、充币记录查看、提币记录查看。
 查看的信息均为该代理商邀请的旗下用户信息，无法查看其他用户的信息。
 
-## 可建N个代理商账号，进行分发下载，各代理商之间独立管理和统计，方便运营市场扩张
+### 可建N个代理商账号，进行分发下载，各代理商之间独立管理和统计，方便运营市场扩张
+
+
 
 # 支持功能：
 
-## 罗列已全部实现完成
+### 罗列已全部实现完成
 
 > 多交易对
 
@@ -173,7 +177,7 @@ vuejs前后端分离设计，由15个子系统构成，确保系统灵活安全�
 - [x] 邀请好友可获得手续费 30%返佣
 - [x] 等级返佣 L1-10%、L2-20%、L3-30%，根据不同的等级进行设置返佣
 
-# 新增活动落地页 6 个
+## 新增活动落地页 6 个
 
 方便直接可以用于市场推广及宣传，可直接与广告商接入使用
 
@@ -183,19 +187,19 @@ vuejs前后端分离设计，由15个子系统构成，确保系统灵活安全�
 
 # 行情管理
 
-## 行情一键恢复
+### 行情一键恢复
 可快速一键恢复行情（K线），适用服务终止或出问题等情况的修复
 
-## 行情修正（价格发布）
+### 行情修正（价格发布）
 可定制化的修复价格行情
 
 注：该功能主要是用于修正剧烈行情震荡给用户来带不必要的损失，请勿做他用
 
 
-# 流水复核
+### 流水复核
 > 可针对所有用户进行多维度的流水校验和复核，自动计算复核结果，用于用户提币转账等关键操作校验
 
-# 报表统计导出
+### 报表统计导出
 > 关键数据统计，均有可筛选条件的数据统计及数据导出功能
 > 自选时间段和数据类型，进行数据统计导出，包括下单、盈亏、手续费、充、提、奖、穿仓等分类选择
 
@@ -293,11 +297,11 @@ vuejs前后端分离设计，由15个子系统构成，确保系统灵活安全�
 
 # 钱包管理
 
-## 自动分配（账户注册后自动分配冷钱包地址）
+### 自动分配（账户注册后自动分配冷钱包地址）
 
-## 自动充值（充值自动入账到用户账号，自动扫描区块）
+### 自动充值（充值自动入账到用户账号，自动扫描区块）
 
-## 自动提币，自动风控校验出币（多重签名、单笔转币、批量合并转币），可设置人工审核出币
+### 自动提币，自动风控校验出币（多重签名、单笔转币、批量合并转币），可设置人工审核出币
 
 
 # 说明
@@ -360,7 +364,7 @@ vuejs前后端分离设计，由15个子系统构成，确保系统灵活安全�
 
 ### 挖矿页面
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/mine.png" width="365" height="619"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/mine1.png" width="365" height="619"/>
 
 ### 充值提币
 
@@ -372,10 +376,10 @@ vuejs前后端分离设计，由15个子系统构成，确保系统灵活安全�
 
 ### 交易对管理
 
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/contract.png" width="975" height="468"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/contract1.png" width="975" height="468"/>
 ### 流水管理
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/record.png" width="975" height="468"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/record1.png" width="975" height="468"/>
 ### 用户充值
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/recharge.png" width="975" height="468"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/recharge1.png" width="975" height="468"/>
 ### 订单管理
-<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/order.png" width="975" height="468"/>
+<img src="https://github.com/freedom-is-life/crypto-exchange/blob/master/demo/images/order1.png" width="975" height="468"/>
