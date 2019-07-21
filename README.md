@@ -1,6 +1,6 @@
 # crypto-exchange
 
-# 项目介绍 -- 24MEX 24mex GodMEX
+# 项目介绍 -- 24MEX 24mex
 
 目前最火的差价合约交易所系统、获客最快盈利最快的新型交易所
 
